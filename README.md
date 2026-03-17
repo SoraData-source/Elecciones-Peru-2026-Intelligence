@@ -29,8 +29,8 @@ Como respuesta, diseñé un ecosistema de datos que:
 Esta sección ofrece una panorámica del escenario electoral, segmentando a los candidatos por partido, nivel de riesgo legal y métricas clave de educación e ingresos.
 
 <p align="center">
-  <img src=".Proyecto-Candidatos-2026/img/dashboard_4.PNG" width="45%" alt="Dashboard Vista General 1">
-  <img src=".Proyecto-Candidatos-2026/img/dashboard_8.PNG" width="45%" alt="Dashboard Vista General 2">
+  <img src="./Proyecto-Candidatos-2026/img/dashboard_4.PNG" width="45%" alt="Dashboard Vista General 1">
+  <img src="./Proyecto-Candidatos-2026/img/dashboard_8.PNG" width="45%" alt="Dashboard Vista General 2">
 </p>
 <p align="center"><em>Vista macro de la distribución de candidatos y análisis comparativo de riesgo.</em></p>
 
@@ -38,8 +38,8 @@ Esta sección ofrece una panorámica del escenario electoral, segmentando a los 
 *Las capturas identificadas con **`_p2`** corresponden a la segunda página del reporte.* Aquí se despliega una ficha técnica profunda de cada candidato seleccionado, permitiendo una fiscalización individual detallada.
 
 <p align="center">
-  <img src=".Proyecto-Candidatos-2026/img/dashboard_p2_2.PNG" width="45%" alt="Ficha Candidato 1">
-  <img src=".Proyecto-Candidatos-2026/img/dashboard_p2_3.PNG" width="45%" alt="Ficha Candidato 2">
+  <img src="./Proyecto-Candidatos-2026/img/dashboard_p2_2.PNG" width="45%" alt="Ficha Candidato 1">
+  <img src="./Proyecto-Candidatos-2026/img/dashboard_p2_3.PNG" width="45%" alt="Ficha Candidato 2">
 </p>
 <p align="center"><em>Ejemplos de fichas individuales: Datos demográficos, historial legal, ingresos y tracking de TikTok.</em></p>
 
