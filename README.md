@@ -60,7 +60,7 @@ Se ha diseñado un modelo relacional robusto que permite el cruce de informació
 * **Perfil Legal:** Seguimiento de sentencias, procesos judiciales y niveles de riesgo (N0-N5).
 * **Trayectoria:** Historial académico, ingresos declarados y experiencia política.
 * **Operaciones:** Registro de visitas de campaña y agenda territorial.
-* **Script de Estructura:** Se incluye el archivo `.sql` con la definición de tablas, tipos de datos y relaciones en la carpeta [`/sql`](./sql/).
+* **Script de Estructura:** Se incluye el archivo `.sql` con la definición de tablas, tipos de datos y relaciones en la carpeta [`/sql`](./Proyecto-Candidatos-2026/sql/).
 
 ### 2. Pipeline de Automatización (Python)
 Implementación de scripts para el monitoreo de **TikTok** que permiten:
@@ -74,11 +74,11 @@ Visualización de KPIs críticos como el nivel de preparación vs. ingresos, map
 ---
 
 ## Estructura del Proyecto
-* `/data`: Repositorio de datasets en formato CSV (24 tablas).
-* `/scripts`: Código fuente de los procesos de extracción y actualización (Scrapers).
-* `/dashboard`: Archivos de reporte de inteligencia de negocios.
-* `/img`: Capturas del dashboard.
-* `/sql`: Script de la creacion de la base de datos.
+* [`/data`](./Proyecto-Candidatos-2026/data/): Repositorio de datasets en formato CSV (24 tablas).
+* [`/scripts`](./Proyecto-Candidatos-2026/scripts/): Código fuente de los procesos de extracción y actualización (Scrapers).
+* [`/dashboard`](./Proyecto-Candidatos-2026/dashboard/): Archivos de reporte de inteligencia de negocios.
+* [`/img`](./Proyecto-Candidatos-2026/img/): Capturas del dashboard.
+* [`/sql`](./Proyecto-Candidatos-2026/sql/): Script de la creacion de la base de datos.
 ---
 ## Retos Técnicos y Gestión de Datos
 
@@ -102,7 +102,6 @@ Para una correcta interpretación del Dashboard y los archivos CSV, considere lo
 ---
 
 ## Próximos Pasos (Oportunidades de Mejora)
-El proyecto está diseñado para ser escalable, con las siguientes metas a corto plazo:
 1. **Modelado Predictivo:** Aplicar modelos de Machine Learning para predecir tendencias de intención de voto basadas en el crecimiento de seguidores y engagement en redes.
 2. **Web Scraping Multi-plataforma:** Expandir la captura de datos a X (Twitter) y Facebook para obtener un panorama de sentimiento social más robusto.
 3. **Automatización en la Nube:** Migrar el pipeline local a un entorno cloud (Azure/AWS) para actualizaciones automáticas 24/7 sin dependencia de hardware local.
@@ -113,11 +112,11 @@ El proyecto está diseñado para ser escalable, con las siguientes metas a corto
 ## Documentación Metodológica
 Para una comprensión profunda de los criterios de evaluación, se ha adjuntado un documento detallado que incluye la justificación técnica de cada candidato y las fuentes de validación.
 
-**[Descargar Metodología Detallada (PDF)](./documentacion/Metodologia_Clasificacion_Riesgo_2026.pdf)**
+👉 **[Descargar Metodología Detallada (PDF)](./Proyecto-Candidatos-2026/documentacion/Metodologia_Clasificacion_Riesgo_2026.pdf)**
 
 ---
 ## Perfil del Desarrollador
-Desarrollado por estudiante de Estadistica de 7mo ciclo, ubicado en el **Cuadro de Mérito (Top 2)** de la facultad. Especialista en la creación de soluciones basadas en datos para contextos de alta complejidad.
+Desarrollado por estudiante de Estadistica de 10mo ciclo, ubicado en el **Cuadro de Mérito (Top 2)** de la facultad de la Universidad Nacional Mayor de San Marcos (UNMSM). Especialista en la creación de soluciones basadas en datos para contextos de alta complejidad.
 
 
 ---
