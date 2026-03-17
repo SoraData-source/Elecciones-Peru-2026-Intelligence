@@ -21,7 +21,7 @@ Como respuesta, diseñé un ecosistema de datos que:
 
 ---
 
-## 🖼️ Galería del Dashboard (Power BI)
+## Galería del Dashboard (Power BI)
 
 > *A continuación, se presentan capturas de pantalla que demuestran cómo la arquitectura de datos en SQL Server y los pipelines de Python se transforman en inteligencia visual para la toma de decisiones.*
 
